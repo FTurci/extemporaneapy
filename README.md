@@ -1,3 +1,3 @@
 # extemporaneapy
 
-Chi è eXtemporanea (in codice) ?
+Chi è eXtemporanea. Jupyter notebookper visualizzare il gruppo.
